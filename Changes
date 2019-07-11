@@ -1,4 +1,4 @@
-0.001   2019-02-17 (PERLANCAR)
+0.001   2019-02-17  Released-By: PERLANCAR
 
         - First release, split from Acme-CPANModulesBundle-PERLANCAR and remove
           the PERLANCAR:: in the name.
